@@ -7,7 +7,7 @@
   <!-- Main Sidebar Container -->
   <Sidebar :ruta="ruta"></Sidebar>
 
-  <!-- Contenido Principal-->
+  <!-- Contenido Principa-->
     <div class="content-wrapper">
       <transition name="slide" mode="out-in">
       <router-view></router-view>
